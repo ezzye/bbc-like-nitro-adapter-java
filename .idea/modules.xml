@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bbc-like-nitro-adapter-java.iml" filepath="$PROJECT_DIR$/bbc-like-nitro-adapter-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uk.co.ezcode.nitroadaptor.iml" filepath="$PROJECT_DIR$/uk.co.ezcode.nitroadaptor.iml" />
     </modules>
   </component>
 </project>
