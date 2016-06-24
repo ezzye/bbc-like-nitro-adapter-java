@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: bbc.otg_common:tools-test:405">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/bbc/otg_common/tools-test/405/tools-test-405.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/bbc/otg_common/tools-test/405/tools-test-405-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/bbc/otg_common/tools-test/405/tools-test-405-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
