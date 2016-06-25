@@ -28,7 +28,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bbc-like-nitro-adapter-java" target="1.5" />
-      <module name="uk.co.ezcode.nitroadaptor" target="1.5" />
+      <module name="uk.co.ezcode.nitroadaptor" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
